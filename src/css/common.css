@@ -16,3 +16,13 @@ img {
   display: block;
   max-width: 100%;
 }
+
+button {
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 20px;
+}
+.box {
+  display: flex;
+  justify-content: center;
+}
